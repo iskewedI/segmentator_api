@@ -1,0 +1,14 @@
+data
+Mask_RCNN
+__pycache__
+
+*.h5
+
+*events*
+
+*.pb
+*.gz
+
+submission.csv
+
+*.jpg
